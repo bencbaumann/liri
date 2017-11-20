@@ -3,7 +3,7 @@
 Liri takes one of the following commands and outputs formatted results to the console as 'cards'
 
 ### Install Liri
-    npm install . -g
+    npm install https://github.com/bencbaumann/liri.git -g
 
 ### Get information about a song
     liri spotify-this-song [song title: str]
