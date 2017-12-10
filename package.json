@@ -14,6 +14,8 @@
   "dependencies": {
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
+    "say": "^0.14.0",
+    "speakable": "^0.4.0",
     "twitter": "^1.7.1"
   }
 }
